@@ -40,6 +40,8 @@ var s1:String = "Dog"
 var s2:String = " "
 var s3:String = "Cat"
 
-var result1:String = s1+s2+s3 //Java Type
+var result1:String = s1 + s2 + s3 //Java Type
+
+
 
 
